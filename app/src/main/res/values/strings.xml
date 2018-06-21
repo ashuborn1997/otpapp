@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OTPApp</string>
+    <string name="username_here">Username here</string>
+    <string name="password_here">Password here</string>
+    <string name="mobile_number">mobile number</string>
+    <string name="enter_username">enter username</string>
+    <string name="password_plz">password plz</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="go">GO</string>
+</resources>
